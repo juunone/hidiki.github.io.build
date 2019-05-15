@@ -77,7 +77,6 @@ module.exports = {
                     '/javascript/asynchronous-programming-4',
                     '/javascript/map-set',
                     '/javascript/event-loop',
-                    '/javascript/event-handle',
                 ]
             },
             {
@@ -120,12 +119,6 @@ module.exports = {
                 title: 'Vim',
                 children: [
                     '/vim/vimrc'
-                ]
-            },
-            {
-                title: 'WebAPI',
-                children: [
-                    '/webapi/event-handle'
                 ]
             },
             {
